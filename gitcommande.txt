@@ -1,3 +1,7 @@
 git add .
 git commit -m "todo list"   //commentaire
 git push -u origin main
+git status
+git checkout new_feature
+git checkout main
+git merge new_feature
